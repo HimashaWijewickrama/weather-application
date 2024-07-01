@@ -1,0 +1,32 @@
+.navigation-toolbar {
+  background-color: #edebec;
+}
+.content-grid-list {
+  padding: 5px;
+}
+mat-grid-tile {
+  background: lightblue;
+}
+.user-input-card {
+  padding: 20px;
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  text-transform: capitalize;
+}
+.weather-left-card{
+    width: 60%;
+    margin: 0px;
+}
+.example-card {
+  width: 60%;
+  margin: 0px;
+}
+
+.example-header-image {
+  background-image: url("https://material.angular.io/assets/img/examples/shiba1.jpg");
+  background-size: cover;
+}
